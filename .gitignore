@@ -20,7 +20,7 @@ __pycache__/
 *.log
 *.tmp
 
-# Arquivos de notebooks com saídas (se quiser ignorar)
+# Arquivos de notebooks com saídas 
 *.ipynb_checkpoints/
 
 # Pastas e arquivos do Jupyter
