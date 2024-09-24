@@ -70,13 +70,15 @@ O fluxo de dados no projeto segue a seguinte estrutura:
 ## 🖼️ Screenshots
 Aqui estão algumas capturas de tela das análises:
 
-Visão geral das Análises:
-
-<img src="03_Recursos/imagem_analise_geral.png">
-
-Gráficos de Análise:
-
-<img src="03_Recursos/imagem_graficos.png">
+<p align="center">
+<img src="03-Recursos/img_analise_01.png">
+</p>
+<p align="center">
+<img src="03-Recursos/img_analise_02.png">
+</p>
+<p align="center">
+<img src="03-Recursos/img_analise_03.png">
+</p>
 
 ## 📞 Contato
 - 📫 Você pode entrar em contato comigo pelo meu [e-mail](mailto:thiago.leit@hotmail.com).
