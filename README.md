@@ -19,14 +19,18 @@ Este repositório está organizado da seguinte forma:
 - **03-Recursos**: Contém recursos gráficos e dados auxiliares utilizados no projeto.
 
 ## 💾 Demonstração e Uso
-Para explorar a análise:
-1. **Download do Notebook**: [Clique aqui para baixar o Jupyter Notebook](C:\Users\thiag\Desktop\Projetos Git Hub\blue-bank-customer-churn-eda\02-Analise\blue-bank-costumer-churn-eda.ipynb).
-2. **Instruções de Uso**: 
-   - Abra o notebook no Jupyter ou em uma plataforma que suporte notebooks IPython.
-   - Execute as células sequencialmente para ver as análises e visualizações.
+Para explorar a análise, você pode seguir uma das opções abaixo:
 
-## 📖 Artigo Completo
-Para uma análise detalhada do projeto, incluindo metodologias e insights obtidos, leia o [artigo completo](https://medium.com/@thiago.leit/blue-bank-churn-analysis-article).
+1. **Visualização Direta no GitHub**:
+   - Vá até a pasta **02-Analise** e abra o arquivo **Jupyter Notebook** diretamente no GitHub para visualizar a análise sem precisar baixar.
+   - [Clique aqui para acessar a pasta de análise](02-Analise/blue-bank-costumer-churn-eda.ipynb).
+
+2. **Download do Notebook**:
+   - Caso a visualização no GitHub não funcione adequadamente ou prefira trabalhar localmente, você pode baixar o arquivo no mesmo link anterior.
+
+3. **Instruções de Uso Local**:
+   - Após baixar, abra o notebook no Jupyter ou em uma plataforma que suporte notebooks IPython.
+   - Execute as células sequencialmente para visualizar as análises e gráficos.
 
 ## 🛠️ Tecnologias Utilizadas
 - [Python](https://www.python.org/)
