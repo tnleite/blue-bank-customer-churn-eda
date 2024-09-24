@@ -14,8 +14,9 @@ Utilizando ferramentas como **Pandas**, **Matplotlib** e **Seaborn**, fomos capa
 
 Este projeto é um exemplo prático do poder da análise de dados para gerar insights valiosos, que podem ser usados pelo Blue Bank para melhorar suas estratégias de retenção de clientes e otimizar a tomada de decisões.
 
-<img src="03-Recursos/analise_video.gif">
-
+<p align="center">
+  <img src="03-Recursos/analise_video.gif" alt="GIF Análise">
+</p>
 
 ## 💾 Demonstração e Uso
 Para explorar a análise, você pode seguir uma das opções abaixo:
