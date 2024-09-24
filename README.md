@@ -43,7 +43,7 @@ Para explorar a análise, você pode seguir uma das opções abaixo:
 - [Seaborn](https://seaborn.pydata.org/)
 
 ## 🏗️ Arquitetura e Fluxo de Dados
-<img src="03_Recursos/arquitetura_dados.png">
+<img src="03-Recursos/arquitetura_dados.png">
 
 O fluxo de dados no projeto segue a seguinte estrutura:
 
