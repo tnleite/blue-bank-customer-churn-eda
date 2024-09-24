@@ -53,17 +53,18 @@ O fluxo de dados no projeto segue a seguinte estrutura:
 - **Geração de Insights**: A partir das visualizações e análises, identificamos fatores como idade avançada, saldo elevado e inatividade que influenciam diretamente o churn dos clientes.
 - **Recomendações Estratégicas**: Com base nos insights, sugerimos ações para melhorar a retenção de clientes do Blue Bank.
 
-
 ## 🔄 Etapas do Projeto
-1. **Preparação dos Dados**: Limpeza e formatação dos dados de churn.
+
+1. **Preparação dos Dados**: Limpeza e formatação dos dados de churn, com foco na eliminação de valores nulos e inconsistentes.
 2. **Análise Exploratória de Dados (EDA)**: Utilização de estatísticas descritivas e visualizações para entender o comportamento dos clientes e os fatores que influenciam o churn.
 3. **Insights Obtidos**: Identificação dos principais fatores de churn, como idade avançada, inatividade e saldo elevado.
-4. **Recomendações**: Sugestões de estratégias de retenção para grupos específicos de clientes.
+4. **Recomendações**: Sugestões de estratégias de retenção para grupos específicos de clientes com base nos insights.
 
 ## 📈 Impacto e Resultados
-- Identificação de fatores chave que influenciam o churn, como idade avançada, inatividade no banco e localização.
-- Insights acionáveis para personalizar estratégias de retenção de clientes.
-- Melhoria nas decisões estratégicas do banco com base em dados concretos.
+
+- **Decisões Baseadas em Dados**: A análise proporcionou insights concretos que podem guiar o Blue Bank a personalizar suas estratégias de retenção de clientes.
+- **Melhor Entendimento do Churn**: Identificamos os fatores mais críticos que levam à saída de clientes, como idade, inatividade, localização, permitindo um foco mais estratégico em ações para retenção.
+- **Aumento da Eficiência nas Decisões**: Com os resultados obtidos, o banco pode direcionar esforços para áreas que realmente influenciam o churn, aumentando a eficiência em suas estratégias de retenção.
 
 ## 🖼️ Screenshots
 Aqui estão algumas capturas de tela das análises:
