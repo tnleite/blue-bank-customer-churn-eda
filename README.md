@@ -2,13 +2,17 @@
 
 <img src="03-Recursos/imagem_capa_repositorio.png">
 
-[![Python Version](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter Version](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 [![Project Status](https://img.shields.io/badge/Status-In_Progress-yellow)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 📝 Descrição do Projeto
-O **Blue Bank Churn Analysis** é um projeto desenvolvido em Jupyter Notebook para explorar e analisar a rotatividade de clientes no Blue Bank. Este trabalho utiliza análise exploratória de dados para identificar padrões e fatores que influenciam a decisão dos clientes de continuar ou sair do banco.
+## 📝 Descrição do Projeto  
+O **Blue Bank Churn Analysis** é um projeto desenvolvido em Jupyter Notebook, realizado como parte do encerramento do módulo de **Técnicas de Programação** no curso **Santander Coders 2024**. O objetivo do projeto  escolher um dataset e realizar uma Análise Exploratória de Dados. Para isso, escolhemos um conjunto de dados realista e aplicamos uma **Análise Exploratória de Dados (EDA)** detalhada para identificar padrões em variáveis demográficas, financeiras e comportamentais para entender os fatores que contribuem para a rotatividade de clientes (*churn*) no Blue Bank..
+
+Utilizando ferramentas como **Pandas**, **Matplotlib** e **Seaborn**, fomos capazes de visualizar e analisar as relações entre diversas características dos clientes, como idade, saldo bancário, gênero e atividade no banco, e determinar como essas variáveis influenciam a decisão dos clientes de permanecer ou sair da instituição.
+
+Este projeto é um exemplo prático do poder da análise de dados para gerar insights valiosos, que podem ser usados pelo Blue Bank para melhorar suas estratégias de retenção de clientes e otimizar a tomada de decisões.
 
 <img src="03_Recursos/gif_analise_churn.gif">
 
@@ -26,7 +30,7 @@ Para explorar a análise, você pode seguir uma das opções abaixo:
    - [Clique aqui para acessar a pasta de análise](02-Analise/blue-bank-costumer-churn-eda.ipynb).
 
 2. **Download do Notebook**:
-   - Caso a visualização no GitHub não funcione adequadamente ou prefira trabalhar localmente, você pode baixar o arquivo no mesmo link anterior.
+   - Caso a visualização no GitHub não funcione adequadamente ou prefira trabalhar localmente, você pode baixar o arquivo basta baixar, na mesma janela de visualização do github.
 
 3. **Instruções de Uso Local**:
    - Após baixar, abra o notebook no Jupyter ou em uma plataforma que suporte notebooks IPython.
@@ -39,16 +43,29 @@ Para explorar a análise, você pode seguir uma das opções abaixo:
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 
+## 🏗️ Arquitetura e Fluxo de Dados
+<img src="03-Recursos/arquitetura_dados.png">
+
+O fluxo de dados no projeto segue a seguinte estrutura:
+
+- **Coleta de Dados**: O dataset foi carregado contendo informações detalhadas sobre os clientes, como idade, saldo bancário, atividade no banco e status de churn.
+- **Manipulação de Dados**: Utilizamos a biblioteca Pandas para limpar, formatar e preparar os dados para análise.
+- **Visualização Gráfica**: Aplicamos Matplotlib e Seaborn para criar visualizações que mostram padrões e correlações nas variáveis.
+- **Geração de Insights**: A partir das visualizações e análises, identificamos fatores como idade avançada, saldo elevado e inatividade que influenciam diretamente o churn dos clientes.
+- **Recomendações Estratégicas**: Com base nos insights, sugerimos ações para melhorar a retenção de clientes do Blue Bank.
+
 ## 🔄 Etapas do Projeto
-1. **Preparação dos Dados**: Limpeza e formatação dos dados de churn.
-2. **Análise Exploratória**: Uso de estatísticas descritivas e visualizações para entender o comportamento dos clientes.
-3. **Interpretação dos Resultados**: Análise dos fatores que mais impactam a rotatividade.
-4. **Recomendações**: Sugestões baseadas em dados para ações de retenção de clientes.
+
+1. **Preparação dos Dados**: Limpeza e formatação dos dados de churn, com foco na eliminação de valores nulos e inconsistentes.
+2. **Análise Exploratória de Dados (EDA)**: Utilização de estatísticas descritivas e visualizações para entender o comportamento dos clientes e os fatores que influenciam o churn.
+3. **Insights Obtidos**: Identificação dos principais fatores de churn, como idade avançada, inatividade e localização.
+4. **Recomendações**: Sugestões de estratégias de retenção para grupos específicos de clientes com base nos insights.
 
 ## 📈 Impacto e Resultados
-- Identificação de fatores chave que contribuem para a rotatividade de clientes.
-- Insights acionáveis para estratégias de retenção do banco.
-- Melhoria nas decisões estratégicas com base em análise de dados.
+
+- **Decisões Baseadas em Dados**: A análise proporcionou insights concretos que podem guiar o Blue Bank a personalizar suas estratégias de retenção de clientes.
+- **Melhor Entendimento do Churn**: Identificamos os fatores mais críticos que levam à saída de clientes, como idade e inatividade, permitindo um foco mais estratégico em ações para retenção.
+- **Aumento da Eficiência nas Decisões**: Com os resultados obtidos, o banco pode direcionar esforços para áreas que realmente influenciam o churn, aumentando a eficiência em suas estratégias de retenção.
 
 ## 🖼️ Screenshots
 Aqui estão algumas capturas de tela das análises:
